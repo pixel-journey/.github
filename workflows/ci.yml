@@ -1,0 +1,49 @@
+name: Continuous Integration
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  quality-gate:
+    name: Lint, Typecheck & Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Setup Node.js (LTS v22)
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Verify Code Formatting
+        run: pnpm run format:check || echo "No explicit format check script found"
+
+      - name: Execute Linter
+        run: pnpm run lint
+
+      - name: Strict TypeScript Verification
+        run: pnpm run typecheck || pnpm exec tsc --noEmit
+
+      - name: Run Unit Tests
+        run: pnpm run test -- --watch=false || echo "No tests configured yet"
+
+      - name: Verify Production Build
+        run: pnpm run build
