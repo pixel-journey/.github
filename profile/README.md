@@ -19,7 +19,7 @@ We guide communities through engaging journeys, blending art, education, staking
 * 🛒 **PxMarket**: Pixel Journey NFT / Asset Marketplace (linked from website)
 * 📚 **GitBook Docs**: [gitbook-docs repo](https://github.com/pixel-journey/gitbook-docs)
 * 🌍 **Main Website Repo**: [pixel-journey.github.io](https://github.com/pixel-journey/pixel-journey.github.io)
-* 📦 **PxPackages** (Upcoming): Core packages and tools repository
+* 📦 **Upcoming**: PxPackages (core packages and standards)
 
 Join us on this pixel-perfect adventure! Contributions, feedback, and community participation are welcome.
 
