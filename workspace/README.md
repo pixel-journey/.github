@@ -1,5 +1,3 @@
 # Pixel-Journey Workspace
 
-This folder contains organization-level workspace tools, scripts, and configurations for development, CI/CD, and package management.
-
-Upcoming: monorepo tools, Docker setups, PxPackages helpers.
+This folder is for organization-level scripts, configs, Dockerfiles, monorepo tools, and future PxPackages infrastructure.
