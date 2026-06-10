@@ -1,26 +1,21 @@
-# Pixel Journey
+# Welcome to Pixel Journey
 
-## Welcome to Pixel Journey 🛸🪅
+Pixel Journey is a vibrant Web3 ecosystem blending **pixel art**, NFTs, education (PxLearn), gaming, staking, and community-driven marketplaces.
 
-Pixel Journey is a Web3 educational and creative project centered around pixel art, NFTs, games, and immersive digital experiences on blockchain ecosystems (primarily WAX and beyond).
+## PxAwesomeList
 
-We guide communities through engaging journeys, blending art, education, staking, and market experiences.
+- **Website**: [pixeljourney.io](https://pixeljourney.io) (or your domain)
+- **Docs**: [GitBook](https://gitbook-docs-liart.vercel.app)
+- **X / Twitter**: [@PxJourney](https://x.com/PxJourney)
+- **Discord**: [Join Discord](your-discord-link)
+- **Telegram**: [Join TG](your-tg-link)
+- **Staking Portal**: [Stake here](your-staking-link)
+- **PxMarket**: [Marketplace](your-market-link)
+- **GitHub Repos**: Explore our projects below
+- **PxPackages** (upcoming): Our package ecosystem for pixel tools and Web3 components
 
-## Explore the Pixel Journey
+Join the journey and help build the future of creative Web3! 🚀
 
-**PxAwesomeList** – Top recommended links:
+---
 
-* 🌐 **Official Website**: [pixeljourney.xyz](https://pixeljourney.xyz)
-* 📖 **Documentation & Guides**: [docs.pixeljourney.xyz](https://docs.pixeljourney.xyz/)
-* 🐦 **X / Twitter**: [@PxJourney](https://x.com/PxJourney)
-* 💬 **Discord**: [Pixel Journey Discord](https://discord.gg/pixeljourney) (check website for exact invite)
-* 📱 **Telegram**: Search for official Pixel Journey TG (announced on X/Discord)
-* 🔐 **Staking Portal**: [PxJourney Staking](https://staking.pixeljourney.xyz) (or via website)
-* 🛒 **PxMarket**: Pixel Journey NFT / Asset Marketplace (linked from website)
-* 📚 **GitBook Docs**: [gitbook-docs repo](https://github.com/pixel-journey/gitbook-docs)
-* 🌍 **Main Website Repo**: [pixel-journey.github.io](https://github.com/pixel-journey/pixel-journey.github.io)
-* 📦 **Upcoming**: PxPackages (core packages and standards)
-
-Join us on this pixel-perfect adventure! Contributions, feedback, and community participation are welcome.
-
-*Crafting pixels, building journeys.* 🚀
+*Powered by pixel passion and community.*
