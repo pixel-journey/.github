@@ -1,18 +1,18 @@
-# Pixel-Journey
+# Pixel-Journey Organization
 
 ## Welcome to Pixel-Journey
 
-We are on a journey through pixels, creating creative tech, pixel art tools, games, and digital experiences.
+We craft immersive pixel art, games, and creative digital experiences.
 
 ### Our Mission
-Build high-quality, maintainable, and innovative projects with Google-level engineering standards.
+Delivering high-quality, maintainable creative technology following Google-level engineering standards: code health, automation, rigorous reviews, and scalability.
 
 ### Featured Projects
-- [pixel-journey.github.io](https://pixel-journey.github.io) - Our website
+- [pixel-journey.github.io](https://github.com/pixel-journey/pixel-journey.github.io) - Official website
 - [gitbook-docs](https://github.com/pixel-journey/gitbook-docs) - Documentation
 
-## Contribution
-We welcome contributions! See [CONTRIBUTING.md](https://github.com/pixel-journey/pixel-journey-templates/blob/main/CONTRIBUTING.md)
+### Get Involved
+See [CONTRIBUTING.md](https://github.com/pixel-journey/pixel-journey-templates/blob/main/CONTRIBUTING.md) and join our journey!
 
-## Engineering Standards
-Inspired by [Google's eng-practices](https://github.com/google/eng-practices)
+---
+*Built with excellence in mind.*
