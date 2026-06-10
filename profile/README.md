@@ -1,23 +1,18 @@
-# 🌟 Pixel-Journey
+# Pixel-Journey
 
-**Crafting pixel-perfect digital experiences with engineering excellence.**
+## Welcome to Pixel-Journey
 
-## About Us
-Pixel-Journey is dedicated to creating high-quality pixel art tools, games, and creative software.
+We are on a journey through pixels, creating creative tech, pixel art tools, games, and digital experiences.
 
-We follow **Google-inspired engineering practices** for sustainable, high-quality code and collaboration.
+### Our Mission
+Build high-quality, maintainable, and innovative projects with Google-level engineering standards.
 
-## Key Repositories
-- [pixel-journey.github.io](https://pixel-journey.github.io)
-- [gitbook-docs](https://github.com/pixel-journey/gitbook-docs)
-- [pixel-journey-templates](https://github.com/pixel-journey/pixel-journey-templates)
+### Featured Projects
+- [pixel-journey.github.io](https://pixel-journey.github.io) - Our website
+- [gitbook-docs](https://github.com/pixel-journey/gitbook-docs) - Documentation
 
-## Standards & Practices
-- Professional documentation
-- Automated CI/CD
-- Code of Conduct
-- Secure development
+## Contribution
+We welcome contributions! See [CONTRIBUTING.md](https://github.com/pixel-journey/pixel-journey-templates/blob/main/CONTRIBUTING.md)
 
-Contribute and be part of the journey! 🚀
-
-*Last updated: June 2026*
+## Engineering Standards
+Inspired by [Google's eng-practices](https://github.com/google/eng-practices)
