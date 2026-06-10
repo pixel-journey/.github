@@ -2,17 +2,23 @@
 
 ## Welcome to Pixel-Journey
 
-We craft immersive pixel art, games, and creative digital experiences.
+We craft immersive **pixel art**, games, tools, and creative digital experiences.
 
-### Our Mission
-Delivering high-quality, maintainable creative technology following Google-level engineering standards: code health, automation, rigorous reviews, and scalability.
+### Mission
+Building with **Google Principal Engineering excellence**:
+- Code health improves over time
+- Rigorous, constructive code reviews
+- Full automation via CI/CD
+- Security, documentation, and scalability first
 
 ### Featured Projects
-- [pixel-journey.github.io](https://github.com/pixel-journey/pixel-journey.github.io) - Official website
-- [gitbook-docs](https://github.com/pixel-journey/gitbook-docs) - Documentation
+- [🌐 pixel-journey.github.io](https://github.com/pixel-journey/pixel-journey.github.io) — Main website
+- [📖 gitbook-docs](https://github.com/pixel-journey/gitbook-docs) — Documentation
+- [📋 pixel-journey-templates](https://github.com/pixel-journey/pixel-journey-templates) — Standards hub
 
-### Get Involved
-See [CONTRIBUTING.md](https://github.com/pixel-journey/pixel-journey-templates/blob/main/CONTRIBUTING.md) and join our journey!
+### Standards & Contribution
+- Follow our [templates](https://github.com/pixel-journey/pixel-journey-templates)
+- See [CONTRIBUTING.md](https://github.com/pixel-journey/pixel-journey-templates/blob/main/CONTRIBUTING.md)
+- Open issues/PRs with high standards
 
----
-*Built with excellence in mind.*
+*On a pixel-perfect journey toward engineering perfection.* 🚀
