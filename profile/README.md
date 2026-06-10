@@ -1,25 +1,26 @@
-# Pixel-Journey
+# Pixel Journey
 
-## Welcome to Pixel Journey 🛸🪅
+## Welcome to Pixel Journey
 
-Pixel Journey is a Web3 educational and creative project centered around pixel art, NFTs, games, and immersive digital experiences on blockchain ecosystems (primarily WAX and beyond).
+Pixel Journey is a vibrant Web3 ecosystem dedicated to pixel art, education (PxLearn), gaming, NFTs, staking, and decentralized marketplaces. We craft immersive digital experiences where creativity meets blockchain innovation.
 
-We guide communities through engaging journeys, blending art, education, staking, and market experiences.
+## PxAwesomeList — Explore More
 
-## Explore the Pixel Journey
+- 🌐 **Website**: [pixeljourney.xyz](https://pixeljourney.xyz)
+- 📖 **Documentation**: [GitBook](https://gitbook-docs-liart.vercel.app)
+- 🐦 **X (Twitter)**: [Follow us](https://x.com/pixeljourney)
+- 💬 **Discord**: Join our community
+- 📱 **Telegram**: Stay updated
+- 🔐 **Staking Portal**: Participate in rewards
+- 🛍️ **PxMarket**: Discover and trade assets
+- 📦 **PxPackages** (Upcoming): Core package repository for our tools and libraries
 
-**PxAwesomeList** – Top recommended links:
+## Featured Repositories
+- [pixel-journey.github.io](https://github.com/pixel-journey/pixel-journey.github.io) — Official website
+- [gitbook-docs](https://github.com/pixel-journey/gitbook-docs) — Knowledge base and docs
 
-- 🌐 **Official Website**: [pixeljourney.xyz](https://pixeljourney.xyz)
-- 📖 **Documentation & Guides**: [docs.pixeljourney.xyz](https://docs.pixeljourney.xyz/)
-- 🐦 **X / Twitter**: [@PxJourney](https://x.com/PxJourney)
-- 💬 **Discord**: [Pixel Journey Discord](https://discord.gg/pixeljourney) (check website for exact invite)
-- 📱 **Telegram**: Search for official Pixel Journey TG (announced on X/Discord)
-- 🔐 **Staking Portal**: [PxJourney Staking](https://staking.pixeljourney.xyz) (or via website)
-- 🛒 **PxMarket**: Pixel Journey NFT / Asset Marketplace (linked from website)
-- 📚 **GitBook Docs**: [gitbook-docs repo](https://github.com/pixel-journey/gitbook-docs)
-- 🌍 **Main Website Repo**: [pixel-journey.github.io](https://github.com/pixel-journey/pixel-journey.github.io)
+We're building the future one pixel at a time. Feedback and contributions are welcome!
 
-Join us on this pixel-perfect adventure! Contributions, feedback, and community participation are welcome.
+---
 
-*Crafting pixels, building journeys.* 🚀
+*Crafting pixels. Building journeys.*
