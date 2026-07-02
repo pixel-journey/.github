@@ -1,42 +1,51 @@
-# Pixel Journey
+# Pixel Journey 🛸
 
-**Building high-quality, educational, and joyful Web3 tools on WAX and Antelope.**
+**Welcome to Pixel Journey**
 
-We blend serious engineering with retro pixel culture. Our focus is on self-custody, verifiable mechanics, excellent UI/UX, and creating resources that help developers build better.
+Pixel Journey is a Web3 educational and creative project centered around pixel art, NFTs, games, and immersive digital experiences — primarily on WAX and expanding across blockchain ecosystems.
 
----
-
-## Our Ecosystem
-
-| Repository | Description |
-|------------|-------------|
-| **[pixel-journey-standards](https://github.com/pixel-journey/pixel-journey-standards)** | The official standards codex. Defines quality, patterns, UI/UX rules, documentation standards, and more across the organization. |
-| **[pixel-journey-templates](https://github.com/pixel-journey/pixel-journey-templates)** | Production-ready scaffolds and boilerplates for building Px dApps and packages. |
-| **[wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)** | High-quality educational blueprints and real-world examples for the WAX ecosystem. |
-| **Design System** | Consistent retro pixel + premium glassmorphic components, tokens, and patterns. |
+We guide communities through engaging journeys that blend art, education, staking, markets, and meaningful on-chain experiences. Our goal is to help people explore, learn, and enjoy the opportunities that Web3 has to offer — Px by Px, Journey by Journey.
 
 ---
 
-## Our Approach
+## Explore the Pixel Journey
 
-- **Existing Public Primitives First** — We maximize public on-chain infrastructure (AtomicAssets, Hyperion, Alcor, etc.) instead of building unnecessary custom contracts.
-- **Client-Side & Self-Custody** — Strong emphasis on local-first architecture and secure key management.
-- **Educational Value** — Everything we build should help others learn and improve.
-- **High-Quality UI/UX** — We maintain a distinctive retro pixel aesthetic with premium execution.
-- **Verifiable & Trustless** — Where possible, we use on-chain entropy and transparent mechanics.
+**PxAwesomeList** – Top recommended links:
 
-These principles are documented in detail in our [Standards Codex](https://github.com/pixel-journey/pixel-journey-standards).
-
----
-
-## Get Involved
-
-- **Developers**: Start with the [Templates](https://github.com/pixel-journey/pixel-journey-templates) or explore the [Blueprint Catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog).
-- **Contributors**: Check the [Standards](https://github.com/pixel-journey/pixel-journey-standards) for quality expectations and contribution guidelines.
-- **Community**: Follow us on X [@PxJourney](https://x.com/PxJourney) and join the conversation.
-
-We welcome thoughtful contributions that raise the bar for the ecosystem.
+- 🌐 **Official Website**: [pixeljourney.xyz](https://pixeljourney.xyz)
+- 📖 **Documentation & Guides**: [docs.pixeljourney.xyz](https://docs.pixeljourney.xyz)
+- 🐦 **X / Twitter**: [@PxJourney](https://x.com/PxJourney)
+- 💬 **Discord**: [Pixel Journey Discord](https://discord.gg/pixeljourney)
+- 📱 **Telegram**: Search for official Pixel Journey TG (announced on X/Discord)
+- 🔒 **Staking Portal**: [staking.pixeljourney.xyz](https://staking.pixeljourney.xyz)
+- 🛒 **PxMarket**: [market.pixeljourney.xyz](https://market.pixeljourney.xyz)
 
 ---
 
-*Pixel Journey — Serious tech, joyful pixels.*
+## Our Ecosystem & Repositories
+
+We build with high standards and a focus on quality, education, and composability:
+
+- **[pixel-journey-standards](https://github.com/pixel-journey/pixel-journey-standards)** — Our living standards codex for quality, patterns, and best practices across the ecosystem.
+- **[pixel-journey-templates](https://github.com/pixel-journey/pixel-journey-templates)** — Ready-to-use scaffolds and boilerplates to help you build aligned with our standards.
+- **[wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)** — High-quality educational examples and real-world patterns to learn from and build upon.
+
+We also maintain various **PxPackages** and **PxPortals** designed to work together across the ecosystem.
+
+---
+
+## PxPortals
+
+- **Staking**: [staking.pixeljourney.xyz](https://staking.pixeljourney.xyz)
+- **Market**: [market.pixeljourney.xyz](https://market.pixeljourney.xyz)
+- **(More PxPortals coming soon)**
+
+---
+
+## Join the Journey
+
+We believe Web3 should be joyful, accessible, and empowering. Whether you're here to build, learn, stake, trade, or simply explore — you're welcome.
+
+Contributions, feedback, and community participation are always appreciated.
+
+*Crafting pixels. Building journeys.* 🚀
