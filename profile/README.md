@@ -1,26 +1,42 @@
 # Pixel Journey
 
-## Welcome to Pixel Journey 🛸
+**Building high-quality, educational, and joyful Web3 tools on WAX and Antelope.**
 
-Pixel Journey is a Web3 educational and creative project centered around pixel art, NFTs, games, and immersive digital experiences on blockchain ecosystems (primarily WAX and beyond).
+We blend serious engineering with retro pixel culture. Our focus is on self-custody, verifiable mechanics, excellent UI/UX, and creating resources that help developers build better.
 
-We guide communities through engaging journeys, blending art, education, staking, and market experiences.
+---
 
-## Explore the Pixel Journey
+## Our Ecosystem
 
-**PxAwesomeList** – Top recommended links:
+| Repository | Description |
+|------------|-------------|
+| **[pixel-journey-standards](https://github.com/pixel-journey/pixel-journey-standards)** | The official standards codex. Defines quality, patterns, UI/UX rules, documentation standards, and more across the organization. |
+| **[pixel-journey-templates](https://github.com/pixel-journey/pixel-journey-templates)** | Production-ready scaffolds and boilerplates for building Px dApps and packages. |
+| **[wax-ecosystem-blueprint-catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog)** | High-quality educational blueprints and real-world examples for the WAX ecosystem. |
+| **Design System** | Consistent retro pixel + premium glassmorphic components, tokens, and patterns. |
 
-* 🌐 **Official Website**: [pixeljourney.xyz](https://pixeljourney.xyz)
-* 📖 **Documentation & Guides**: [docs.pixeljourney.xyz](https://docs.pixeljourney.xyz/)
-* 🐦 **X / Twitter**: [@PxJourney](https://x.com/PxJourney)
-* 💬 **Discord**: [Pixel Journey Discord](https://discord.gg/pixeljourney) (check website for exact invite)
-* 📱 **Telegram**: Search for official Pixel Journey TG (announced on X/Discord)
-* 🔐 **Staking Portal**: [PxJourney Staking](https://staking.pixeljourney.xyz) (or via website)
-* 🛒 **PxMarket**: Pixel Journey NFT / Asset Marketplace (linked from website)
-* 📚 **GitBook Docs**: [gitbook-docs repo](https://github.com/pixel-journey/gitbook-docs)
-* 🌍 **Main Website Repo**: [pixel-journey.github.io](https://github.com/pixel-journey/pixel-journey.github.io)
-* 📦 **Upcoming**: PxPackages (core packages and standards)
+---
 
-Join us on this pixel-perfect adventure! Contributions, feedback, and community participation are welcome.
+## Our Approach
 
-*Crafting pixels, building journeys.* 🚀
+- **Existing Public Primitives First** — We maximize public on-chain infrastructure (AtomicAssets, Hyperion, Alcor, etc.) instead of building unnecessary custom contracts.
+- **Client-Side & Self-Custody** — Strong emphasis on local-first architecture and secure key management.
+- **Educational Value** — Everything we build should help others learn and improve.
+- **High-Quality UI/UX** — We maintain a distinctive retro pixel aesthetic with premium execution.
+- **Verifiable & Trustless** — Where possible, we use on-chain entropy and transparent mechanics.
+
+These principles are documented in detail in our [Standards Codex](https://github.com/pixel-journey/pixel-journey-standards).
+
+---
+
+## Get Involved
+
+- **Developers**: Start with the [Templates](https://github.com/pixel-journey/pixel-journey-templates) or explore the [Blueprint Catalog](https://github.com/pixel-journey/wax-ecosystem-blueprint-catalog).
+- **Contributors**: Check the [Standards](https://github.com/pixel-journey/pixel-journey-standards) for quality expectations and contribution guidelines.
+- **Community**: Follow us on X [@PxJourney](https://x.com/PxJourney) and join the conversation.
+
+We welcome thoughtful contributions that raise the bar for the ecosystem.
+
+---
+
+*Pixel Journey — Serious tech, joyful pixels.*
